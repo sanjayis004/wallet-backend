@@ -1,0 +1,22 @@
+2024-06-13T18:04:54.191Z: MongoDB Connected: 0.0.0.0
+2024-06-13T18:04:54.192Z: server started | listening at |  9094
+2024-06-13T18:15:41.616Z: {"walletId":"666b30c47343772f734d5d6f","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2024-06-13T18:15:41.616Z: 666b30c47343772f734d5d6f 0 10 desc date
+2024-06-13T18:15:41.620Z: [{"transactions":[{"_id":"666b314b7343772f734d5d7b","walletId":"666b30c47343772f734d5d6f","amount":-200,"balance":1900,"type":"DEBIT","description":"gift","date":"2024-06-13T17:50:03.051Z","__v":0},{"_id":"666b30ee7343772f734d5d74","walletId":"666b30c47343772f734d5d6f","amount":2000,"balance":2100,"type":"CREDIT","description":"gift","date":"2024-06-13T17:48:30.527Z","__v":0},{"_id":"666b30c47343772f734d5d71","walletId":"666b30c47343772f734d5d6f","amount":100,"balance":100,"type":"CREDIT","description":"wallet setup","date":"2024-06-13T17:47:48.662Z","__v":0}],"totalCount":[{"count":3}]}]
+2024-06-13T18:15:41.623Z: 666b30c47343772f734d5d6f
+2024-06-13T18:15:41.630Z: {"_id":"666b30c47343772f734d5d6f","name":"sanjay","balance":1900,"__v":0}
+2024-06-13T18:15:53.598Z: {"walletId":"666b30c47343772f734d5d6f","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2024-06-13T18:15:53.598Z: 666b30c47343772f734d5d6f 0 10 desc date
+2024-06-13T18:15:53.604Z: [{"transactions":[{"_id":"666b314b7343772f734d5d7b","walletId":"666b30c47343772f734d5d6f","amount":-200,"balance":1900,"type":"DEBIT","description":"gift","date":"2024-06-13T17:50:03.051Z","__v":0},{"_id":"666b30ee7343772f734d5d74","walletId":"666b30c47343772f734d5d6f","amount":2000,"balance":2100,"type":"CREDIT","description":"gift","date":"2024-06-13T17:48:30.527Z","__v":0},{"_id":"666b30c47343772f734d5d71","walletId":"666b30c47343772f734d5d6f","amount":100,"balance":100,"type":"CREDIT","description":"wallet setup","date":"2024-06-13T17:47:48.662Z","__v":0}],"totalCount":[{"count":3}]}]
+2024-06-13T18:15:53.606Z: 666b30c47343772f734d5d6f
+2024-06-13T18:15:53.610Z: {"_id":"666b30c47343772f734d5d6f","name":"sanjay","balance":1900,"__v":0}
+2024-06-13T18:23:30.613Z: {"walletId":"666b30c47343772f734d5d6f","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2024-06-13T18:23:30.613Z: 666b30c47343772f734d5d6f 0 10 desc date
+2024-06-13T18:23:30.615Z: 666b30c47343772f734d5d6f
+2024-06-13T18:23:30.619Z: [{"transactions":[{"_id":"666b314b7343772f734d5d7b","walletId":"666b30c47343772f734d5d6f","amount":-200,"balance":1900,"type":"DEBIT","description":"gift","date":"2024-06-13T17:50:03.051Z","__v":0},{"_id":"666b30ee7343772f734d5d74","walletId":"666b30c47343772f734d5d6f","amount":2000,"balance":2100,"type":"CREDIT","description":"gift","date":"2024-06-13T17:48:30.527Z","__v":0},{"_id":"666b30c47343772f734d5d71","walletId":"666b30c47343772f734d5d6f","amount":100,"balance":100,"type":"CREDIT","description":"wallet setup","date":"2024-06-13T17:47:48.662Z","__v":0}],"totalCount":[{"count":3}]}]
+2024-06-13T18:23:30.623Z: {"_id":"666b30c47343772f734d5d6f","name":"sanjay","balance":1900,"__v":0}
+2024-06-13T18:23:49.334Z: {"walletId":"666b30c47343772f734d5d6f","skip":"0","limit":"10","sortColumn":"date","sortOrder":"desc"}
+2024-06-13T18:23:49.334Z: 666b30c47343772f734d5d6f 0 10 desc date
+2024-06-13T18:23:49.335Z: 666b30c47343772f734d5d6f
+2024-06-13T18:23:49.336Z: [{"transactions":[{"_id":"666b314b7343772f734d5d7b","walletId":"666b30c47343772f734d5d6f","amount":-200,"balance":1900,"type":"DEBIT","description":"gift","date":"2024-06-13T17:50:03.051Z","__v":0},{"_id":"666b30ee7343772f734d5d74","walletId":"666b30c47343772f734d5d6f","amount":2000,"balance":2100,"type":"CREDIT","description":"gift","date":"2024-06-13T17:48:30.527Z","__v":0},{"_id":"666b30c47343772f734d5d71","walletId":"666b30c47343772f734d5d6f","amount":100,"balance":100,"type":"CREDIT","description":"wallet setup","date":"2024-06-13T17:47:48.662Z","__v":0}],"totalCount":[{"count":3}]}]
+2024-06-13T18:23:49.338Z: {"_id":"666b30c47343772f734d5d6f","name":"sanjay","balance":1900,"__v":0}

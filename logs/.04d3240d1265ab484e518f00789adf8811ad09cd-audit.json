@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/sanjaykumar/projects/highlevel/wallet_management_service/logs/.04d3240d1265ab484e518f00789adf8811ad09cd-audit.json",
+    "files": [
+        {
+            "date": 1718301894124,
+            "name": "/Users/sanjaykumar/projects/highlevel/wallet_management_service/logs/winston_log_file.log.2024-06-13-23",
+            "hash": "6168b2e625f39e79a1e4f4153294d06d3dd999f2dfe2150318522c2f664709f2"
+        }
+    ],
+    "hashType": "sha256"
+}
