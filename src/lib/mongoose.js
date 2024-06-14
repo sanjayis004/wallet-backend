@@ -4,7 +4,8 @@ const config = require('../configs/config.json')
 
 const connectMongo = async () => {
   try {
-    const conn = await mongoose.connect(`mongodb://${config.MONGODB_HOST_PORT}/${config.MONGODB_DATABASE}`, {
+    //mongodb://${config.MONGODB_HOST_PORT}/${config.MONGODB_DATABASE} 
+    const conn = await mongoose.connect(config.MONGO_CONNECTION_STRING, {
       useNewUrlParser: true,
     });
     logger.info(`MongoDB Connected: ${conn.connection.host}`);

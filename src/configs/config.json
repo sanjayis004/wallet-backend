@@ -1,6 +1,7 @@
 {
 	"port":9094,
 	"MONGODB_HOST_PORT":"0.0.0.0:27017",
-	"MONGODB_DATABASE":"wallet_db"
+	"MONGODB_DATABASE":"wallet_db",
+	"MONGO_CONNECTION_STRING":"mongodb+srv://sanjayksharma004:4pwgJi3u8hfEWuoh@cluster0.lzxbxag.mongodb.net/wallet_db?retryWrites=true&w=majority&appName=Cluster0"
 }
 
